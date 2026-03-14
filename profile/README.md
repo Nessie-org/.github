@@ -2,6 +2,8 @@
 
 > A modular, plugin-driven platform for loading, visualizing, and analyzing graphs in the browser.
 
+
+📖 **Full documentation:** [nessie-docs](https://nessie-docs.vercel.app/)
 ---
 
 ## What is Nessie?
@@ -121,8 +123,6 @@ def my_plugin():
 [project.entry-points."nessie_plugins"]
 my_plugin = "my_package:my_plugin"
 ```
-
-📖 **Full documentation:** [nessie-docs](https://nessie-docs.vercel.app/)
 
 ---
 
