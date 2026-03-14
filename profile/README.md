@@ -122,7 +122,7 @@ def my_plugin():
 my_plugin = "my_package:my_plugin"
 ```
 
-📖 **Full documentation:** [nessie-docs](https://github.com/Nessie-org/nessie-docs)
+📖 **Full documentation:** [nessie-docs](https://nessie-docs.vercel.app/)
 
 ---
 
